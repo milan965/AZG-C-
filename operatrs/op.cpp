@@ -28,5 +28,33 @@ int main(){
 	//logical operator
 	//&&   ||   !
 	
+//	int a=10,b=5,c=99;
+//	
+//	cout<<"Ans :- "<<(a > b && a > c)<<endl;
+//	cout<<"Ans :- "<<(a > b || a > c)<<endl;
+//	cout<<"Ans :- "<<(!a > b);
+
+
+	//increment operator ++
+	//decrement operator --
+	
+	int a=10;
+	
+	//post increment
+//	cout<<"Ans :- "<<a++<<endl;
+//	cout<<a;
+
+//pre increment
+//	cout<<"A = "<<++a;
+
+	//post decrement
+//	cout<<"A = "<<a--<<endl;
+//	cout<<a<<endl;
+	
+	//pre decrement
+	cout<<"A = "<<--a<<endl;
+	
+	
+	
 	return 0;
 }
